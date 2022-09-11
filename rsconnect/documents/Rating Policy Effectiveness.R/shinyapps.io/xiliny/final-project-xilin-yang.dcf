@@ -1,0 +1,14 @@
+name: final-project-xilin-yang
+title: final-project-xilin-yang
+username:
+account: xiliny
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5862149
+bundleId: 5688983
+url: https://xiliny.shinyapps.io/final-project-xilin-yang/
+when: 1647386463.90552
+lastSyncTime: 1647386463.90554
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Covid Mental Health.txt|english-ewt-ud-2.5-191206.udpipe|images/.DS_Store
